@@ -1,6 +1,6 @@
-# JobBot
+# JobHuntingBot
 
-**JobBot** is an automated job hunting tool that streamlines the search process and provides personalized recommendations based on user inputs such as job title, education level, location, experience, and more. By leveraging web scraping techniques, it efficiently retrieves job listings and presents them in an organized format.
+**JobHuntingBot** is an automated job hunting tool that streamlines the search process and provides personalized recommendations based on user inputs such as job title, education level, location, experience, and more. By leveraging web scraping techniques, it efficiently retrieves job listings and presents them in an organized format.
 
 ## Table of Contents
 - [Features](#Features)
