@@ -23,7 +23,7 @@
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/JobBot.git
+   https://github.com/Orca-63/Job-Hunting-Bot.git
 2. Install ChromeDriver:
    https://googlechromelabs.github.io/chrome-for-testing/
 3. Install the required libraries : Selenium, prettytable      
